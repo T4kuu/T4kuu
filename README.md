@@ -36,7 +36,11 @@
 
 ---
 
-## 💻 Tech & Setup
+<div align="center">
+
+  ## 💻 Tech & Setup
+
+</div>
 
 <div align="center">
 
@@ -51,9 +55,13 @@
 
 ---
 
-## 🌌 Skills & Interests
+<div align="center">
 
-<table>
+  ## 🌌 Skills & Interests
+
+</div>
+
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/-Machine%20Learning-blue?style=for-the-badge" alt="Machine Learning"/>
