@@ -1,6 +1,6 @@
 # <div align="center">whoami</div>
 
-```⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣤⣤⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣴⣿⣿⣿⡿⢿⣿⣿⣿⣭⣵⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡿⣿⣿⣿⡿⡛⢻⣿⠫⢿⢿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -38,18 +38,15 @@
 
 <div align="center">
 
-  ## 💻 Tech & Setup
+### 💻 **System Specifications**
 
-</div>
-
-<div align="center">
-
-| **Surface Book 3 Specs** | **Details** |
-|:-------------------------:|:------------|
-| 🧠 **CPU** | Intel i7-1065G7 |
-| 🎮 **GPU** | NVIDIA GTX 1650 Max-Q |
-| 💾 **RAM** | 32 GB |
-| 💽 **Storage** | 512 GB SSD |
+| **Surface Book 3** | Details|
+|:-------------------------|-----------:    |
+| 🧠 **CPU** | Intel i7-1065G7              |
+| 🎮 **GPU** | NVIDIA GTX 1650 Max-Q        |
+| 💾 **RAM** | 32 GB                        |
+| 💽 **Storage** | 512 GB SSD               |
+| 🖥️ **Display** | 13.5" PixelSense Touch   |
 
 </div>
 
@@ -57,38 +54,65 @@
 
 <div align="center">
 
-  ## 🌌 Skills & Interests
+### ✨ **Areas of Interest**
 
 </div>
 
 <table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Machine%20Learning-blue?style=for-the-badge" alt="Machine Learning"/>
-      <br>
-      <sub>Deep Learning • Neural Networks • Data Science</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Quantitative%20Finance-green?style=for-the-badge" alt="Quantitative Finance"/>
-      <br>
-      <sub>Algorithmic Trading • Financial Modeling • Risk Analysis</sub>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="20%">
+
+### 🔮 Machine Learning
+
+</td>
+<td align="center" width="25%">
+
+### 👁‍🗨 OSINT
+
+</td>
+<td align="center" width="20%">
+
+### 🔒 Cybersecurity
+
+</td>
+<td align="center" width="20%">
+
+### 🔐 Cryptography
+
+</td>
+<td align="center" width="20%">
+
+### 🔓 Reverse Engineering
+
+
+</td>
+</tr>
 </table>
 
 ---
 
 <div align="center">
 
-### 🛠️ Tech Stack
+### ⚡️ **Tech Stack**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
+
+<div align="center">
+
+### 📊 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T4kuu&custom_title=T4kuu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+
+</div>
