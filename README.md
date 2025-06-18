@@ -54,57 +54,11 @@
 
 <div align="center">
 
-### ✨ **Areas of Interest**
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 🤖 **Machine Learning**
-🧠 Deep Learning  
-🔬 Neural Networks  
-🎯 Computer Vision  
-🗣️ NLP & Language Models  
-
-</td>
-<td align="center" width="33%">
-
-### 📊 **Data Science**
-📈 Statistical Analysis  
-🔍 Data Mining  
-📋 Feature Engineering  
-📊 Data Visualization  
-
-</td>
-<td align="center" width="33%">
-
-### 📈 **Quantitative Finance**
-💹 Algorithmic Trading  
-🎲 Risk Management  
-📉 Portfolio Optimization  
-💰 Financial Modeling  
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
 ### ⚡️ **Tech Stack**
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Machine Learning & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white)
 
 ### Development Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
