@@ -59,6 +59,7 @@
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Development Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
